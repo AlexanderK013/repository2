@@ -1,2 +1,2 @@
 <?php
-//newfile.php
+//newfile.php//newfile.php
